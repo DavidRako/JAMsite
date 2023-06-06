@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>JAMSite</title>
+    <link>http://example.org/</link>
+    <description>Recent content on JAMSite</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright 2023 Stackacademy.tv</copyright>
+    <lastBuildDate>Tue, 30 May 2023 12:13:54 +0200</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://example.org/about/</link>
+      <pubDate>Wed, 31 May 2023 11:10:58 +0200</pubDate>
+      
+      <guid>http://example.org/about/</guid>
+      <description>About JAMSite Some info regarding this site at the top level
+“Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+    </item>
+    
+    <item>
+      <title>Photo One</title>
+      <link>http://example.org/photos/photo-one/</link>
+      <pubDate>Tue, 30 May 2023 12:13:54 +0200</pubDate>
+      
+      <guid>http://example.org/photos/photo-one/</guid>
+      <description>Photo Heading photo except
+Photo content</description>
+    </item>
+    
+    <item>
+      <title>Second Page</title>
+      <link>http://example.org/second-page/</link>
+      <pubDate>Tue, 30 May 2023 12:01:32 +0200</pubDate>
+      
+      <guid>http://example.org/second-page/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hugo Dog</title>
+      <link>http://example.org/photos/hugo-dog/</link>
+      <pubDate>Tue, 30 May 2023 10:45:34 +0200</pubDate>
+      
+      <guid>http://example.org/photos/hugo-dog/</guid>
+      <description>Hugo the Dog “Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.”</description>
+    </item>
+    
+    <item>
+      <title>First Page</title>
+      <link>http://example.org/first-page/</link>
+      <pubDate>Tue, 30 May 2023 10:29:05 +0200</pubDate>
+      
+      <guid>http://example.org/first-page/</guid>
+      <description>First JAMSite Page “Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.”</description>
+    </item>
+    
+  </channel>
+</rss>
